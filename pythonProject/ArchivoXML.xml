@@ -1,0 +1,26 @@
+<xml tipo="usuarios">
+    <usuario id="1">
+        <nombre>Mario</nombre>
+        <apellido>Lopez</apellido>
+        <edad>22</edad>
+        <ciudad>Guatemala</ciudad>
+    </usuario>
+    <usuario id="2">
+        <nombre>Pedro</nombre>
+        <apellido>Molina</apellido>
+        <edad>44</edad>
+        <ciudad>Guatemala</ciudad>
+    </usuario>
+    <usuario id="3">
+        <nombre>Jorge</nombre>
+        <apellido>Perez</apellido>
+        <edad>55</edad>
+        <ciudad>Antigua</ciudad>
+    </usuario>
+    <usuario id="4">
+        <nombre>Luis</nombre>
+        <apellido>Muralles</apellido>
+        <edad>66</edad>
+        <ciudad>Guatemala</ciudad>
+    </usuario>
+</xml>

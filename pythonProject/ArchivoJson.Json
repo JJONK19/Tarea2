@@ -1,0 +1,28 @@
+{"usuarios":
+    [
+        {
+            "nombre":"Mario",
+            "apellido":"Lopez",
+            "edad":"22",
+            "ciudad":"Guatemala"
+        },
+        {
+            "nombre":"Pedro",
+            "apellido":"Molina",
+            "edad":"55",
+            "ciudad":"Guatemala"
+        },
+        {
+            "nombre":"Jorge",
+            "apellido":"Perez",
+            "edad":"55",
+            "ciudad":"Antigua"
+        },
+        {
+            "nombre":"Luis",
+            "apellido":"Muralles",
+            "edad":"66",
+            "ciudad":"Guatemala"
+        }
+    ]
+}
